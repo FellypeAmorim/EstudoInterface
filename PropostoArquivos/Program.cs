@@ -24,7 +24,7 @@ namespace PropostoArquivos
             Console.Write("Enter per day: ");
             double pricePerDay = double.Parse(Console.ReadLine());
 
-            RentalService rentalService = new RentalService(pricePerHour, pricePerDay);
+            RentalService rentalService = new RentalService(pricePerHour, pricePerDay, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 

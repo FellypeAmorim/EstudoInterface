@@ -17,7 +17,7 @@ namespace PropostoArquivos.Entities
         }
         public override string ToString()
         {
-            return "Basic payment: " + BasicPayment + "\nTax: " + Tax + "\nTotal payment: " + TotalPayment;
+            return "Basic payment: " + BasicPayment.ToString("F2") + "\nTax: " + Tax.ToString("F2") + "\nTotal payment: " + TotalPayment.ToString("F2");
         }
     }
 }
