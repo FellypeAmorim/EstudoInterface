@@ -1,0 +1,13 @@
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\bin\Debug\netcoreapp3.1\PropostoArquivos.exe
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\bin\Debug\netcoreapp3.1\PropostoArquivos.deps.json
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\bin\Debug\netcoreapp3.1\PropostoArquivos.runtimeconfig.json
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\bin\Debug\netcoreapp3.1\PropostoArquivos.runtimeconfig.dev.json
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\bin\Debug\netcoreapp3.1\PropostoArquivos.dll
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\bin\Debug\netcoreapp3.1\PropostoArquivos.pdb
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.csprojAssemblyReference.cache
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.AssemblyInfoInputs.cache
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.AssemblyInfo.cs
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.dll
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.pdb
+C:\Users\gigim\Desktop\C#\PropostoArquivos\PropostoArquivos\obj\Debug\netcoreapp3.1\PropostoArquivos.genruntimeconfig.cache
